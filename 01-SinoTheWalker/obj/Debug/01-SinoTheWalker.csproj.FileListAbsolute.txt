@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\01-SinoTheWalker\bin\Debug\01-SinoTheWalker.exe.config
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\01-SinoTheWalker\bin\Debug\01-SinoTheWalker.exe
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\01-SinoTheWalker\bin\Debug\01-SinoTheWalker.pdb
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\01-SinoTheWalker\obj\Debug\01-SinoTheWalker.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\01-SinoTheWalker\obj\Debug\01-SinoTheWalker.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\01-SinoTheWalker\obj\Debug\01-SinoTheWalker.exe
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\01-SinoTheWalker\obj\Debug\01-SinoTheWalker.pdb
