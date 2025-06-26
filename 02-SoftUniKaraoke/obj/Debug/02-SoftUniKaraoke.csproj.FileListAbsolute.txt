@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\02-SoftUniKaraoke\bin\Debug\02-SoftUniKaraoke.exe.config
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\02-SoftUniKaraoke\bin\Debug\02-SoftUniKaraoke.exe
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\02-SoftUniKaraoke\bin\Debug\02-SoftUniKaraoke.pdb
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\02-SoftUniKaraoke\obj\Debug\02-SoftUniKaraoke.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\02-SoftUniKaraoke\obj\Debug\02-SoftUniKaraoke.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\02-SoftUniKaraoke\obj\Debug\02-SoftUniKaraoke.exe
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\02-SoftUniKaraoke\obj\Debug\02-SoftUniKaraoke.pdb
