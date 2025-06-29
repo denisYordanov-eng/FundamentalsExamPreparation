@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\01-Santa'sCookies\bin\Debug\01-Santa'sCookies.exe.config
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\01-Santa'sCookies\bin\Debug\01-Santa'sCookies.exe
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\01-Santa'sCookies\bin\Debug\01-Santa'sCookies.pdb
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\01-Santa'sCookies\obj\Debug\01-Santa'sCookies.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\01-Santa'sCookies\obj\Debug\01-Santa'sCookies.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\01-Santa'sCookies\obj\Debug\01-Santa'sCookies.exe
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\01-Santa'sCookies\obj\Debug\01-Santa'sCookies.pdb
