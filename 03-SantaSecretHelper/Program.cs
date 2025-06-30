@@ -33,10 +33,8 @@ namespace _03_SantaSecretHelper
                         kidsBehaviour[key] = " ";
                     }
                     kidsBehaviour[key] = value;
-
-
-                    inputLine = Console.ReadLine();
                 }
+                inputLine = Console.ReadLine();
             }
                 //Print output.
                 var goodkids = kidsBehaviour.Where(b => b.Value == "G");
