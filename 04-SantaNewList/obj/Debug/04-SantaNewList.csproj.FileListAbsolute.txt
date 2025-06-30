@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\04-SantaNewList\bin\Debug\04-SantaNewList.exe.config
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\04-SantaNewList\bin\Debug\04-SantaNewList.exe
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\04-SantaNewList\bin\Debug\04-SantaNewList.pdb
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\04-SantaNewList\obj\Debug\04-SantaNewList.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\04-SantaNewList\obj\Debug\04-SantaNewList.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\04-SantaNewList\obj\Debug\04-SantaNewList.exe
+C:\Users\Laptop\Desktop\C#\ExamFundamentals\examFundamentals\04-SantaNewList\obj\Debug\04-SantaNewList.pdb
